@@ -17,12 +17,12 @@ I’m a dedicated **Full-Stack Developer** and Computer Science student at **Bah
   *[Live Demo](https://ethio-home.onrender.com/)*  
   *[Backend API](https://ethio-home-backend-2.onrender.com/api/v1/properties)*
 
-- **[EthioJobs Connect](https://github.com/AbnetSisay/EthioJobs-Connect)**  
+- **[EthioJobs Connect](https://skill-connect-et-78512-10667-97425-05610.lovable.app/)**  
   An AI-powered job-matching platform for Ethiopia, connecting job seekers with employers. Built with modern web technologies and AI integration for enhanced user experience.  
   *Technologies*: Node.js, React (inferred), AI integration  
   *[Live Demo](https://skill-connect-et-78512-10667-97425-05610.lovable.app/)*
 
-- **[Portfolio Website](https://github.com/AbnetSisay/Portfolio)**  
+- **[Portfolio Website](https://awe-some-rebuild.lovable.app/)**  
   A personal portfolio showcasing my projects and skills, built with **React** and **Tailwind CSS** for a responsive, modern design.  
   *Technologies*: React, Tailwind CSS, JavaScript  
   *[Live Demo](https://awe-some-rebuild.lovable.app/)*
@@ -38,8 +38,7 @@ I actively contribute to open-source projects in **React**, **Node.js**, and **M
 
 ## 📫 Connect with Me
 - **LinkedIn**: [linkedin.com/in/abnet-sisay-10177733b](https://linkedin.com/in/abnet-sisay-10177733b)
-- **Email**: [abnetsisay@gmail.com](mailto:abnetsisay@gmail.com)
-- **X**: [@AbnetDev](https://x.com/AbnetDev)
+- **Email**: [abnetsisay@gmail.com](sisayabnet49@gmail.com)
 - **Portfolio**: [awe-some-rebuild.lovable.app](https://awe-some-rebuild.lovable.app/)
 
 ## ⚡ Fun Fact
