@@ -11,7 +11,7 @@ I’m a dedicated **Full-Stack Developer** and Computer Science student at **Bah
 - **Learning**: TypeScript, GraphQL, Docker
 
 ## 🌟 Featured Projects
-- **[Ethio-Home](https://github.com/AbnetSisay/Ethio-Home)**  
+- **[Ethio-Home](https://ethio-home.onrender.com/)**  
   A real estate platform linking verified sellers and buyers in Ethiopia. Developed with **React** for the frontend, **Node.js/Express** for the backend, and **MongoDB** for data management. Led backend development, implementing APIs for property listings and user authentication.  
   *Technologies*: React, Node.js, Express, MongoDB, JWT  
   *[Live Demo](https://ethio-home.onrender.com/)*  
