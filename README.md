@@ -22,7 +22,7 @@ I’m a dedicated **Full-Stack Developer** and Computer Science student at **Bah
   *Technologies*: Node.js, React (inferred), AI integration  
   *[Live Demo](https://skill-connect-et-78512-10667-97425-05610.lovable.app/)*
 
-- **[Portfolio Website]([https://awe-some-rebuild.lovable.app/](https://abnet-portfolio-nb1nstkji-abnet-sisays-projects.vercel.app/))**  
+- **[Portfolio Website](https://abnet-portfolio-nb1nstkji-abnet-sisays-projects.vercel.app/)**  
   A personal portfolio showcasing my projects and skills, built with **React** and **Tailwind CSS** for a responsive, modern design.  
   *Technologies*: React, Tailwind CSS, JavaScript  
   *[Live Demo](https://awe-some-rebuild.lovable.app/)*
@@ -39,7 +39,7 @@ I actively contribute to open-source projects in **React**, **Node.js**, and **M
 ## 📫 Connect with Me
 - **LinkedIn**: [linkedin.com/in/abnet-sisay-10177733b](https://linkedin.com/in/abnet-sisay-10177733b)
 - **Email**: [abnetsisay@gmail.com](sisayabnet49@gmail.com)
-- **Portfolio**: [awe-some-rebuild.lovable.app]([https://awe-some-rebuild.lovable.app/](https://abnet-portfolio-nb1nstkji-abnet-sisays-projects.vercel.app/))
+- **Portfolio**: ([https://abnet-portfolio-nb1nstkji-abnet-sisays-projects.vercel.app/](https://abnet-portfolio-nb1nstkji-abnet-sisays-projects.vercel.app/))
 
 ## ⚡ Fun Fact
 I’m committed to advancing Ethiopia’s digital economy through technology. When not coding, I enjoy exploring new tools or designing system architectures with Draw.io. ✍️
