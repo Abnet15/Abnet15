@@ -1,52 +1,61 @@
-# 👋 Hello, I’m Abnet Sisay
+# 👋 Hello, I'm Abnet Sisay
 
-I’m a dedicated **Full-Stack Developer** and Computer Science student at **Bahir Dar University**, Ethiopia. I focus on creating scalable, user-friendly web applications using **JavaScript**, **React**, **Node.js**, **Express**, and **MongoDB**. As the lead backend developer for [Ethio-Home](https://github.com/AbnetSisay/Ethio-Home), I’ve contributed to connecting Ethiopia’s real estate market through innovative technology. I’m eager to engage in open-source projects, collaborate globally, and advance digital innovation in Ethiopia and beyond. 🌍
+I'm a dedicated **Full-Stack Developer** and Computer Science student at **Bahir Dar University**, Ethiopia. I specialize in building scalable, user-friendly web and mobile applications using modern technologies like **JavaScript**, **React**, **Next.js**, **Node.js**, **Express**, and **MongoDB**. 
+
+I single-handedly developed **[Ethio-Home](https://ethio-home.onrender.com/)**, a real estate platform connecting verified sellers and buyers across Ethiopia. I'm passionate about open-source contributions, global collaborations, and driving digital innovation in Ethiopia and beyond. 🌍
 
 ## 🛠️ Skills
-- **Frontend**: React, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS
+
+- **Frontend**: React, Next.js, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS, React Native
 - **Backend**: Node.js, Express, RESTful APIs, Authentication (JWT)
 - **Database**: MongoDB, Mongoose, MongoDB Atlas
-- **Tools & Platforms**: Git, GitHub, Postman, VS Code, MongoDB Compass
+- **DevOps & Tools**: Git, GitHub, Postman, VS Code, MongoDB Compass, Docker, CI/CD
 - **Other**: Responsive Design, Agile Development, API Documentation, Unit Testing (Jest)
-- **Learning**: TypeScript, GraphQL, Docker
+- **Currently Learning**: TypeScript
 
 ## 🌟 Featured Projects
-- **[Ethio-Home](https://ethio-home.onrender.com/)**  
-  A real estate platform linking verified sellers and buyers in Ethiopia. Developed with **React** for the frontend, **Node.js/Express** for the backend, and **MongoDB** for data management. Led backend development, implementing APIs for property listings and user authentication.  
-  *Technologies*: React, Node.js, Express, MongoDB, JWT  
-  *[Live Demo](https://ethio-home.onrender.com/)*  
-  *[Backend API](https://ethio-home-backend-2.onrender.com/api/v1/properties)*
 
-- **[EthioJobs Connect](https://skill-connect-et-78512-10667-97425-05610.lovable.app/)**  
-  An AI-powered job-matching platform for Ethiopia, connecting job seekers with employers. Built with modern web technologies and AI integration for enhanced user experience.  
-  *Technologies*: Node.js, React (inferred), AI integration  
-  *[Live Demo](https://skill-connect-et-78512-10667-97425-05610.lovable.app/)*
+- **[Ethio-Home](https://ethio-home.onrender.com/)**
+  - A full-featured real estate platform for Ethiopia, enabling property search with advanced filters, verification processes, secure messaging, visit scheduling, and payments.
+  - I developed **both frontend and backend** from scratch.
+  - *Technologies*: React, Node.js, Express, MongoDB, JWT
+  - [Live Demo](https://ethio-home.onrender.com/)
+  - Backend API: https://ethio-home-backend-2.onrender.com/api/v1/properties
 
-- **[Portfolio Website](https://abnet-portfolio-nb1nstkji-abnet-sisays-projects.vercel.app/)**  
-  A personal portfolio showcasing my projects and skills, built with **React** and **Tailwind CSS** for a responsive, modern design.  
-  *Technologies*: React, Tailwind CSS, JavaScript  
-  *[Live Demo](https://awe-some-rebuild.lovable.app/)*
+- **[Personal Portfolio](https://abnet-portfolio-alpha.vercel.app/)**
+  - A modern, responsive portfolio website showcasing my projects, skills, and experience.
+  - *Technologies*: React, Tailwind CSS, JavaScript
+  - [Live Demo](https://abnet-portfolio-alpha.vercel.app/)
 
 ## 🚀 Open-Source Contributions
-I actively contribute to open-source projects in **React**, **Node.js**, and **MongoDB**. I’m keen to take on `good first issue` tasks and collaborate on impactful repositories. Maintainers, I’d love to contribute to your projects!
+
+I actively contribute to open-source projects involving **React**, **Node.js**, and **MongoDB**. I'm always looking for `good first issue` tasks and opportunities to collaborate on meaningful repositories. Project maintainers—feel free to reach out if I can help!
 
 ## 💼 Experience
-- **Alyah Software PLC** (Intern, [Month Year] – [Month Year])  
-  Built over 20 APIs and 10+ React components for web applications. Worked in a team to deliver scalable solutions using **Node.js**, **Express**, and **MongoDB**.  
-- **Ethio-Home** (Lead Backend Developer, [Month Year] – Present)  
-  Designed and implemented RESTful APIs and MongoDB schemas, enhancing user experience for property searches on a real estate platform.
+
+- **Full-Stack Developer** – Ethio-Home ([Start Date] – Present)  
+  Designed and built the complete application, including RESTful APIs, database schemas, and user-friendly frontend features.
+
+- **Software Development Intern** – Alyah Software PLC ([6 2025] – [8 2025])  
+  Developed 20+ APIs and 10+ React components in a team environment using Node.js, Express, and MongoDB.
 
 ## 📫 Connect with Me
-- **LinkedIn**: [linkedin.com/in/abnet-sisay-10177733b](https://linkedin.com/in/abnet-sisay-10177733b)
-- **Email**: [abnetsisay@gmail.com](sisayabnet49@gmail.com)
-- **Portfolio**: ([https://abnet-portfolio-nb1nstkji-abnet-sisays-projects.vercel.app/](https://abnet-portfolio-nb1nstkji-abnet-sisays-projects.vercel.app/))
+
+- **LinkedIn**: [linkedin.com/in/abnet-sisay-10177733b](https://www.linkedin.com/in/abnet-sisay-10177733b)
+- **Email**: abnetsisay@gmail.com (or sisayabnet49@gmail.com)
+- **Portfolio**: [https://abnet-portfolio-alpha.vercel.app/](https://abnet-portfolio-alpha.vercel.app/)
 
 ## ⚡ Fun Fact
-I’m committed to advancing Ethiopia’s digital economy through technology. When not coding, I enjoy exploring new tools or designing system architectures with Draw.io. ✍️
+
+I'm dedicated to advancing Ethiopia's digital economy through innovative tech solutions. Outside of coding, I love exploring new tools and designing system architectures with Draw.io. ✍️
 
 ---
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
