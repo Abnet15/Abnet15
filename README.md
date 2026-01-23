@@ -2,7 +2,7 @@
 
 I'm a dedicated **Full-Stack Developer** and Computer Science student at **Bahir Dar University**, Ethiopia. I specialize in building scalable, user-friendly web and mobile applications using modern technologies like **JavaScript**, **React**, **Next.js**, **Node.js**, **Express**, and **MongoDB**. 
 
-I single-handedly developed **[Ethio-Home](https://ethio-home.onrender.com/)**, a real estate platform connecting verified sellers and buyers across Ethiopia. I'm passionate about open-source contributions, global collaborations, and driving digital innovation in Ethiopia and beyond. 🌍
+I single-handedly developed **[Ethio-Home](https://ethio-home-frontend-ethn.vercel.app/)**, a real estate platform connecting verified sellers and buyers across Ethiopia. I'm passionate about open-source contributions, global collaborations, and driving digital innovation in Ethiopia and beyond. 🌍
 
 ## 🛠️ Skills
 
@@ -15,11 +15,11 @@ I single-handedly developed **[Ethio-Home](https://ethio-home.onrender.com/)**, 
 
 ## 🌟 Featured Projects
 
-- **[Ethio-Home](https://ethio-home.onrender.com/)**
+- **[Ethio-Home](https://ethio-home-frontend-ethn.vercel.app/)**
   - A full-featured real estate platform for Ethiopia, enabling property search with advanced filters, verification processes, secure messaging, visit scheduling, and payments.
   - I developed **both frontend and backend** from scratch.
   - *Technologies*: React, Node.js, Express, MongoDB, JWT
-  - [Live Demo](https://ethio-home.onrender.com/)
+  - [Live Demo](https://ethio-home-frontend-ethn.vercel.app/)
   - Backend API: https://ethio-home-backend-2.onrender.com/api/v1/properties
 
 - **[Personal Portfolio](https://abnet-portfolio-alpha.vercel.app/)**
